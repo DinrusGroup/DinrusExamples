@@ -1,0 +1,1 @@
+dmd -oftimage.exe text_image.d -L/exet:nt/su:windows:5.0 
